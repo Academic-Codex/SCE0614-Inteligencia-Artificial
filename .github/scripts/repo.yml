@@ -1,5 +1,5 @@
-TITLE_1: FFI0181
-TITLE_2: Laboratório de Física II
+TITLE_1: SCE0614
+TITLE_2: Inteligencia Artificial
 SUBTITLE_1: Disciplina de graduação
 SUBTITLE_2: Material de aula, notebooks e referências.
 
@@ -12,6 +12,6 @@ REFERENCIAS: |
     <li>Artigo BB …</li>
   </ul>
 
-GITHUB_LINK: https://github.com/Academic-Codex/FFI0181-Laboratorio-De-Fisica-II
+GITHUB_LINK: https://github.com/Academic-Codex/SCE0614-Inteligencia-Artificial
 
-HERO_FILE: laboratorio-fisica.png
+HERO_FILE: inteligencia-artificial.png
