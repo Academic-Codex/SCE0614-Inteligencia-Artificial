@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SCE0614-Inteligencia-Artificial">
-    <img src=".github/readme/hero.svg?v=2026-01-06T02:59:01.241250Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-06T14:26:37.620440Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
